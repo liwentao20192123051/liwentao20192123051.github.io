@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/liwentao20192123051/liwentao20192123051.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 个人简历
+## 联系方式
+ - 手机：15187841216
+ - Email：1320875284@qq.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人信息
+  - 李文涛/男/2000.04
+  - 本科/云南大学滇池学院/软件工程 2019-2023
+  - 工作年限：暂无
+  - 技术博客：http://liwentao20192123051.github.io
+  - Github：http://github.com/liwentao20192123051
+ 
+ ### 工作经历
+  - 等待经历后更新
+ 
+ ### 开源贡献
+  - 等待贡献后补充
+ 
+ ### 技术文章
+  -《银河系遨游指南1.0》
+ 
+ ### 技能清单
+ 这玩意太多了就不一一列举了
+ 
+ ### 自我评价
+  - 特别能吃
+  - 特别能睡
+  - 特别能干
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liwentao20192123051/liwentao20192123051.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###### 致谢
+感谢你花时间阅读我的简历，期待有机会能与您共事。
